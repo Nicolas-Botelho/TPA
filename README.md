@@ -1,2 +1,2 @@
 # TPA
-Repositório criado para a matéria de Técnicas Avançadas de Programação (TPA) no IFES - Campus Serra
+Repositório criado para o trabalho de lista encadeada da matéria de Técnicas Avançadas de Programação (TPA) no IFES - Campus Serra.
